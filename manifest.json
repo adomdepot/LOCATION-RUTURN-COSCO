@@ -1,6 +1,6 @@
 {
-  "name": "Employee OM",
-  "short_name": "Employee OM",
+  "name": "เช็คสถานที่คืนตู้เปล่า COSCO",
+  "short_name": "เช็คสถานที่คืนตู้เปล่า COSCO",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8fafc",
